@@ -11,10 +11,14 @@
             "id": "d0884f81d67e3e29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Plan/Description.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Description"
             }
           }
         ]
@@ -151,11 +155,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d0884f81d67e3e29",
   "lastOpenFiles": [
+    "Interview/Plan/Implementation.md",
     "ScaleWise/Linux - practice.md",
     "Interview/Rounds/Index.md",
     "Interview/Rounds/Non-Abstract Large Scale System Design (NALSD).md",
