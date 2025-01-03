@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/2025.md",
+                "file": "Interview/Plan/Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Implementation"
             }
           },
           {
@@ -175,11 +175,11 @@
   },
   "active": "d4ad36773dfc1276",
   "lastOpenFiles": [
+    "Interview/Rounds/TSE/1_UNIX and Linux.md",
+    "Plans/2025.md",
     "ScaleWise/Linux - practice.md",
     "Interview/Plan/Implementation.md",
     "Interview/Rounds/SRE/Questions.md",
-    "Plans/2025.md",
-    "Interview/Rounds/TSE/1_UNIX and Linux.md",
     "Interview/Rounds/TSE/6_Behaviour.md",
     "Interview/Rounds/TSE/5_System Design.md",
     "Interview/Rounds/TSE/4_Databases.md",
