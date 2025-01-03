@@ -1,4 +1,8 @@
 1. File System
+	1. inode
+	2. superblock
+	3. fsck
+	4. journaling
 2. Memory
 3. Networking
 4. Processes

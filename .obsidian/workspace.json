@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b0051f1e2f91ae",
+        "id": "5c235053c959a731",
         "type": "tabs",
         "children": [
           {
-            "id": "d0884f81d67e3e29",
+            "id": "d4ad36773dfc1276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Rounds/Questions.md",
+                "file": "Interview/Topics/Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Memory"
             }
           }
         ]
@@ -155,26 +155,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0884f81d67e3e29",
+  "active": "d4ad36773dfc1276",
   "lastOpenFiles": [
-    "Interview/Plan/Implementation.md",
-    "Interview/Rounds/Questions.md",
     "Interview/Rounds/UNIX & Linux Systems and Internals.md",
-    "Interview/Rounds/Behavioral.md",
-    "Interview/Rounds/Coding.md",
-    "Interview/Rounds/Non-Abstract Large Scale System Design (NALSD).md",
-    "Interview/Rounds/Problem solving & troubleshooting.md",
+    "Interview/Topics/File System.md",
+    "Plans/2025.md",
+    "Interview/Plan/Implementation.md",
     "Interview/Plan/Description.md",
+    "Interview/Rounds/Coding.md",
+    "Interview/Rounds/Behavioral.md",
+    "Interview/Rounds/0 Index.md",
+    "Interview/Topics/Networking.md",
+    "Interview/Rounds/Problem solving & troubleshooting.md",
+    "Interview/Rounds/Non-Abstract Large Scale System Design (NALSD).md",
+    "Interview/Rounds/Questions.md",
+    "Plans",
     "Linux/Linux parts.md",
     "Linux/Kernel parts.md",
     "ScaleWise/Linux - practice.md",
     "Interview/Rounds/Index.md",
-    "Interview/Topics/File System.md",
     "Interview/Topics/Memory.md",
-    "Interview/Topics/Networking.md",
     "Interview/Topics/Processes.md",
     "Linux/Linux - intro.md",
     "Interview/Topics",
