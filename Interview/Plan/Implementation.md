@@ -20,3 +20,7 @@ Scripting
 
 * Сделать бэкап astra.of.by
 * Настроить автоматический бэкап на astra.of.by, dev.astra.rit
+* Изменить URL на dev.playground.astra.rit и playground.astra.rit
+
+Среда (08.01)
+* Снять умерший SSD у К. Загубенко
