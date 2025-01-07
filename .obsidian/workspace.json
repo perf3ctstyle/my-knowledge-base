@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScaleWise/Task 10 - Python, Bash.md",
+                "file": "ScaleWise/Task 8 - RDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 10 - Python, Bash"
+              "title": "Task 8 - RDS"
             }
           }
         ]
@@ -161,12 +161,12 @@
   },
   "active": "d0884f81d67e3e29",
   "lastOpenFiles": [
-    "Plans/2025.md",
-    "Interview/Resume.md",
-    "Interview/Plan/Implementation.md",
     "ScaleWise/Task 10 - Python, Bash.md",
     "ScaleWise/Task 9 - IAM.md",
     "ScaleWise/Task 8 - RDS.md",
+    "Plans/2025.md",
+    "Interview/Resume.md",
+    "Interview/Plan/Implementation.md",
     "ScaleWise/Task 7 - SSH, VPC.md",
     "ScaleWise/Task 6 - Bash scripting, systemd.md",
     "ScaleWise/Task 5 - Load Balancing with NGINX.md",
