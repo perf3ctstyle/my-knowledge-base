@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Plan/Implementation.md",
+                "file": "Plans/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation"
+              "title": "2025"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "d4ad36773dfc1276",
   "lastOpenFiles": [
+    "Interview/Plan/Implementation.md",
     "ScaleWise/Task 7 - SSH, VPC.md",
     "ScaleWise/Task 3 - NGINX, EC2.md",
     "ScaleWise/Task 2 - SSH, Linux Users.md",
@@ -169,7 +170,6 @@
     "Interview/Resume.md",
     "Plans/2025.md",
     "ScaleWise/Linux - practice.md",
-    "Interview/Plan/Implementation.md",
     "Interview/Rounds/TSE/6_Behaviour.md",
     "Interview/Rounds/TSE/1_UNIX and Linux.md",
     "Interview/Rounds/SRE/Questions.md",
