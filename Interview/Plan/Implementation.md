@@ -37,3 +37,7 @@ Scripting
 
 Networking
 * Посмотреть HTTP Crash Course ☑
+
+Четверг (09.01)
+Рота
+* Задеплоить правки на astra.of.by
