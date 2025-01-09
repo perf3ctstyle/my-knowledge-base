@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9619e61873ab07",
+        "id": "a5f5d4ec7df35824",
         "type": "tabs",
         "children": [
           {
-            "id": "1296cd818e65c737",
+            "id": "019b6405cbe93e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/2025.md",
+                "file": "ScaleWise/Task 10 - Python, Bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Task 10 - Python, Bash"
             }
           }
         ]
@@ -159,11 +159,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1296cd818e65c737",
+  "active": "019b6405cbe93e8b",
   "lastOpenFiles": [
+    "Interview/Rounds/TSE/5_System Design.md",
+    "Interview/Rounds/TSE/4_Databases.md",
+    "Interview/Rounds/TSE/3_Networking.md",
+    "Interview/Rounds/TSE/2_Scripting.md",
+    "Plans/2025.md",
     "ScaleWise/Task 10 - Python, Bash.md",
     "Interview/Plan/Implementation.md",
-    "Plans/2025.md",
     "Interview/Resume.md",
     "ScaleWise/Task 5 - Load Balancing with NGINX.md",
     "ScaleWise/Task 4 - DNS, NGINX, PHP.md",
@@ -177,10 +181,6 @@
     "ScaleWise/Linux - practice.md",
     "Interview/Rounds/TSE/6_Behaviour.md",
     "Interview/Rounds/TSE/1_UNIX and Linux.md",
-    "Interview/Rounds/TSE/5_System Design.md",
-    "Interview/Rounds/TSE/4_Databases.md",
-    "Interview/Rounds/TSE/3_Networking.md",
-    "Interview/Rounds/TSE/2_Scripting.md",
     "Interview/Rounds/SRE/0 Index.md",
     "Interview/Rounds/TSE",
     "Interview/Rounds/SRE",
