@@ -41,3 +41,6 @@ Networking
 Четверг (09.01)
 Рота
 * Задеплоить правки на astra.of.by
+
+Scripting, ScaleWise
+* 
