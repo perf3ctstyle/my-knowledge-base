@@ -43,4 +43,4 @@ Networking
 * Задеплоить правки на astra.of.by ☑
 
 Scripting, ScaleWise
-* Сделать task 10
+* Сделать task 10 ☑

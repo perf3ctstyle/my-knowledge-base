@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScaleWise/Task 10 - Python, Bash.md",
+                "file": "Interview/Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 10 - Python, Bash"
+              "title": "Resume"
             }
           }
         ]
@@ -161,13 +161,14 @@
   },
   "active": "019b6405cbe93e8b",
   "lastOpenFiles": [
+    "Plans/2025.md",
+    "Interview/Plan/Implementation.md",
+    "ScaleWise/Task 10 - Python, Bash.md",
+    "ScaleWise/Task 7 - SSH, VPC.md",
     "Interview/Rounds/TSE/5_System Design.md",
     "Interview/Rounds/TSE/4_Databases.md",
     "Interview/Rounds/TSE/3_Networking.md",
     "Interview/Rounds/TSE/2_Scripting.md",
-    "Plans/2025.md",
-    "ScaleWise/Task 10 - Python, Bash.md",
-    "Interview/Plan/Implementation.md",
     "Interview/Resume.md",
     "ScaleWise/Task 5 - Load Balancing with NGINX.md",
     "ScaleWise/Task 4 - DNS, NGINX, PHP.md",
@@ -177,7 +178,6 @@
     "ScaleWise/Task 8 - RDS.md",
     "ScaleWise/Task 9 - IAM.md",
     "Interview/Rounds/SRE/Questions.md",
-    "ScaleWise/Task 7 - SSH, VPC.md",
     "ScaleWise/Linux - practice.md",
     "Interview/Rounds/TSE/6_Behaviour.md",
     "Interview/Rounds/TSE/1_UNIX and Linux.md",
